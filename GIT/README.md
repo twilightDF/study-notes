@@ -13,3 +13,7 @@ Users/michael/learngit
 
 
 注：在windows上建立目录，目录名应避免出现中文
+
+```
+git config --global credential.helper store      
+```
